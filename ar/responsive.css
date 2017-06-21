@@ -1,0 +1,219 @@
+	/* For Iphone */
+	@media (max-width:700px) {
+		.enter_box{
+			position:absolute;
+			bottom:15%;
+			left:-30% !important; 
+			
+		}
+		.enter_box h2 {
+			font-size:30px !important;
+		}
+		.links{
+			bottom:5%;
+			left:10%;
+		}
+		.iz_black{
+			height:35px;
+			width:35px;
+		}
+		.ngc_black{
+			height:35px;
+			width:80px;
+			float:left;
+		}
+		.head p,a{
+			font-size:12px !important;
+			line-height:30px !important;
+			margin-top:8px;
+		}
+		#second_who{
+			margin-top:5px;
+		}
+		.second_slide .menu_title{
+			display:none;
+		}
+		.second_slide .left_content p{
+			font-size:12px !important;
+			line-height:17px !important;
+		}
+		.second_slide .right_content p{
+			font-size:11px !important;
+			line-height:17px !important;
+			overflow:visible !important;
+		}
+		#second_btc_left{
+			width:0;
+		}
+		#second_btc_right{
+			width:100%;
+			padding:70px 5% 0 5%;
+		}
+		#second_who_right{
+			width:0;
+		}
+		#second_who_left{
+			width:100%;
+		}
+		.menu_title{
+			margin-top:3px !important;
+			left:10px;
+		}
+		.bt-menu{
+			top:-10px;
+			z-index:9999;
+		}
+		.menu li:first-child{
+			display:none;
+		}
+		.menu ul{
+			margin-top:80px;
+		}
+		.menu li a{
+			font-size:15px !important;
+			padding-top:5px;
+		}
+		.head_logo img{
+			display:none;
+		}
+		.third_left_content{
+			width:45% !important;
+		}
+		.third_right_content{
+			width:55%;
+		}
+		.third_left_content h1{
+			width:80%;
+			margin-top:170px;
+			font-size:45px !important;
+			line-height:60px !important;
+		}
+		.third_right_content h2{
+			font-size:14px;
+			margin:-20px 0 10px 0;
+		}
+		.third_right_content p{
+			font-size:10px;
+			line-height:13px;
+		}
+		.fourth_left_content{
+			width:100%;
+			margin-top:50px;
+		}
+		.fourth_left_content p{
+			font-size:13px;
+			line-height:17px;
+		}
+		.fourth_right_content{
+			display:none;
+		}
+		.fourth_slide #second_head_left{
+			width:100%;
+			text-align:center;
+		}
+		.fourth_slide #second_head_right{
+			display:none;
+		}	
+		.fourth_slide .head_logo {
+			margin-top:15px;
+			text-align:center;
+			width:90%;
+		}	
+		.fourth_slide #second_who{
+			font-size:28px !important;
+			margin-top:10px !important;
+		}
+		.cafe_visit2{
+			bottom:15% !important;
+			font-size:14px !important;
+			display:block !important;
+		}
+		.fifth_slide .middle_menu{
+			display:none;
+		}
+		.right_content5{
+			display:none;
+		}
+		.left_content5{
+			margin-left:0px;
+			width:100%;
+		}
+		.type_item{
+			max-width:70px !important;
+			margin:20px 0px 0 10px !important;
+		}
+		.type_item  img{
+			max-width:70px !important;
+			border:1px solid #3396d5 !important;
+		}
+		.click{
+			display:none;
+		}
+		.image_viewer{
+			padding-top:200px;
+		}
+		.feature{
+			left:-100px;
+			top:20px;
+		}
+		.prev,.next{
+			font-size:40px !important;
+			line-height:50px !important;
+			top:55%;
+		}
+		.ps_album{
+			max-height:120px;
+			display:inline-block;
+			float:left;
+		}
+		.ps_album p{
+			font-size:12px;
+			margin-bottom:-10px;
+		}
+		.progress_title{
+			font-size:42px;
+			text-align:center;
+			
+		}
+		.download_area{
+			margin-top:150px;
+		}
+		.eighth_slide img{
+			left:15% !important;
+		}
+		.eighth_slide h1{
+			font-size:32px !important;
+			margin-left:10px;
+		}
+		.eighth_slide p{
+			font-size:9px !important;
+			margin-left:13px;
+		}
+		.right_content7{
+			display:none;
+		}
+		.left_content7{
+			width:118%;
+			margin-left:-60px !important;
+		}
+		.tab-links li a{
+			font-size:10px !important;
+		}
+		.contact_form label{
+			font-size:12px;
+			max-width:70px;
+			line-height:14px;
+			padding-top:20px;
+		}
+		.contact_form input[type=text],input[type=email],input[type=file] ,textarea{
+			width:50px !important;
+			min-width:150px;
+		}
+		.contact_form input[type=submit]{
+			font-size:14px;
+			margin-left:70px;
+		}
+		.ninth_slide > .right_top_arrow, .ninth_slide >.up_arrow{
+			top:30px !important;
+		}
+	}

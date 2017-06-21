@@ -1,0 +1,34 @@
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 8
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 9
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Use of undefined constant message - assumed 'message' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 10
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Use of undefined constant reg_date - assumed 'reg_date' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 11
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:09:55 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 8
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 9
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Use of undefined constant message - assumed 'message' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 10
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Use of undefined constant reg_date - assumed 'reg_date' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 11
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:16:50 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 19
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 20
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Use of undefined constant message - assumed 'message' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 21
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Use of undefined constant reg_date - assumed 'reg_date' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 22
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:10 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 34
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Use of undefined constant email - assumed 'email' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 35
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Use of undefined constant message - assumed 'message' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 36
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Use of undefined constant file_name - assumed 'file_name' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 37
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Use of undefined constant reg_date - assumed 'reg_date' in /home/naskam/public_html/erbil-btc/ar/contact.php on line 38
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
+[13-Oct-2014 06:17:36 America/Chicago] PHP Notice:  Undefined variable: UnProtectedExecute in /home/naskam/public_html/erbil-btc/ar/class/Model.php on line 14
